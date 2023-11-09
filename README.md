@@ -47,8 +47,7 @@ python3 -m venv lab_env
 Then activate the new environment:
 
 ```bash
-$ source lab_env/bin/activate
-(lab_env)$
+source lab_env/bin/activate
 ```
 
 Once inside the environment, the requirements must be downloaded:
